@@ -1,0 +1,316 @@
+/* CSS do Sistema Controle Acad�mico */
+
+/* Feito por Thiago Fa�anha */
+body {
+	background-image: url("imagens/background.jpg");
+	background-repeat: repeat-y;
+	font-family: tahoma;
+	font-size: 15px;
+	color: black;
+}
+
+/* Feito por Thiago Fa�anha */
+span {
+	margin-left: left;
+	font-family: tahoma;
+	font-size: 15px;
+	color: black;
+}
+
+/* Feito por Thiago Fa�anha */
+p { font-family: tahoma;
+font-size: 12px;
+color: black;
+}
+
+/* Feito por Thiago Fa�anha */
+.boxFormularioLogin {
+	position:absolute;
+	top:40%;
+	left:50%;
+	height:300px;
+	margin-left:-185px;
+	margin-top:-126px;
+	text-align:center;
+    background: #ebebeb none repeat scroll 0 0;
+    border: 1px solid #d9d9d9;
+    display: block;
+    float: right;
+    padding: 10px;
+    width: 320px;
+}
+
+/* Feito por Thiago Fa�anha */
+.boxMenu {
+	position:absolute;
+	top:40%;
+	left:50%;
+	height:465px;
+	margin-left:-361px;
+	margin-top:-178px;
+	text-align:center;
+    background: #ebebeb none repeat scroll 0 0;
+    border: 1px solid #d9d9d9;
+    display: block;
+    float: right;
+    width: 706px;
+}
+
+/* Feito por Thiago Fa�anha */
+.boxCadAluno {
+	position:absolute;
+	padding: 20px;
+	top:40%;
+	left:50%;
+	height:auto;
+	margin-left:-313px;
+	margin-top:-220px;
+	text-align:left;
+    background: #ebebeb none repeat scroll 0 0;
+    border: 1px solid #d9d9d9;
+    display: block;
+    float: right;
+    width: 511px;
+}
+
+/* Feito por João Paulo */
+.boxAltMatricula {
+	position:absolute;
+	padding: 20px;
+	top:40%;
+	left:50%;
+	height:520px;
+	margin-left:-313px;
+	margin-top:-220px;
+	text-align:left;
+    background: #ebebeb none repeat scroll 0 0;
+    border: 1px solid #d9d9d9;
+    display: block;
+    float: right;
+    width: 511px;
+}
+
+/* Feito por Thiago Fa�anha */
+.boxCadCurso {
+	position:absolute;
+	padding: 20px;
+	top:40%;
+	left:50%;
+	height:232px;
+	margin-left:-313px;
+	margin-top:-220px;
+	text-align:left;
+    background: #ebebeb none repeat scroll 0 0;
+    border: 1px solid #d9d9d9;
+    display: block;
+    float: right;
+    width: 511px;
+}
+
+/* Feito por Thiago Fa�anha */
+.boxAltDisciplina {
+	position:absolute;
+	padding: 20px;
+	top:40%;
+	left:50%;
+	height:400px;
+	margin-left:-313px;
+	margin-top:-220px;
+	text-align:left;
+    background: #ebebeb none repeat scroll 0 0;
+    border: 1px solid #d9d9d9;
+    display: block;
+    float: right;
+    width: 511px;
+}
+
+/* Feito por Leonardo Couto */
+.boxCadProfessor {
+	position:absolute;
+	padding: 20px;
+	top:40%;
+	left:50%;
+	height:auto;
+	margin-left:-313px;
+	margin-top:-220px;
+	text-align:left;
+    background: #ebebeb none repeat scroll 0 0;
+    border: 1px solid #d9d9d9;
+    display: block;
+    float: right;
+    width: 511px;
+}
+
+/* Feito por Leonardo Couto */
+.boxpesqProfessor {
+	position:absolute;
+	padding: 20px;
+	top:40%;
+	left:50%;
+	height:auto;
+	margin-left:-313px;
+	margin-top:-220px;
+	text-align:left;
+    background: #ebebeb none repeat scroll 0 0;
+    border: 1px solid #d9d9d9;
+    display: block;
+    float: right;
+    width: 511px;
+}
+
+/* Feito por Larissa */
+
+#cadmatricula {
+	position:absolute;
+	top:40%;
+	left:50%;
+	width:500px;
+	height:auto;
+	margin-left:-285px;
+	margin-top:-240px;
+	margin-bottom: 50px;
+	text-align:left;	
+	background: #ebebeb none repeat scroll 0 0;
+	border: 1px solid #d9d9d9;
+	display: block;
+	float: right;
+	padding: 10px;
+}
+
+.botaomatricula {
+	display: block;
+	float: left;
+	font-size: 12px;
+	height: 25px;
+	margin: 6px 0 0 200px;
+	text-align: center;
+	width: 100px;
+}
+
+#voltarmenu {
+	margin:0px;
+	padding:0px;
+	width:211px;
+	height:48px;
+	float:left;
+}
+
+h1  {
+	font-family: tahoma;
+	font-size: 22px;
+	color: black;
+	width:278px;
+	float:left;
+}
+
+.escolhadamatricula {
+	margin:8px 0px 0px 0px;
+	padding:0px;
+	width:500px;
+	height:auto;
+	float:left;
+}
+
+#boxdecadastros {
+	margin:8px 0px 0px 0px;
+	padding:0px;
+	width:500px;
+	height:auto;
+	float:left;
+}
+
+.boxdecadastros {
+	margin:8px 0px 0px 0px;
+	padding:0px;
+	width:500px;
+	height:auto;
+	float:left;
+}
+
+/* Feito por Thiago Fa�anha */
+.boxCadDisciplina {
+	position:absolute;
+	padding: 20px;
+	top:40%;
+	left:50%;
+	height:232px;
+	margin-left:-313px;
+	margin-top:-220px;
+	text-align:left;
+    background: #ebebeb none repeat scroll 0 0;
+    border: 1px solid #d9d9d9;
+    display: block;
+    float: right;
+    width: 511px;
+}
+
+#tabelapesquisa {
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+	width: 500px;
+	height:auto;
+	float: left;
+}
+
+#tabelapesquisa tr {
+	width: 500px;
+}
+
+#tabelapesquisa tr td {
+	width:auto;
+	text-align:center;
+	font-size:12px;
+}
+
+h2 {
+	margin:20px 0PX 0PX 0PX;
+	padding:0px;
+	width: 700px;
+	height:50px;
+	float:left;
+	text-align:center;
+	font-size: 24px;
+}
+
+nav {
+	margin:0px;
+	padding:0px;
+	width: 700px;
+	height:auto;
+	float:left;
+}
+
+nav ul {
+	margin:20px 0px 0px 45px;
+	padding: 0px;
+	width:650px;
+	height: auto;
+	float:left;	
+}
+
+nav ul li {
+	margin: 0px 10px 0px 0px;
+	padding:0px;
+	width: 145px;
+	height: 210px;
+	list-style:none;
+	float:left;
+	font-size:14px;
+}
+
+/* Feito por Thiago Fa�anha */
+.boxPesqAluno {
+position:absolute;
+	padding: 20px;
+	top:40%;
+	left:50%;
+	height:auto;
+	margin-left:-313px;
+	margin-top:-220px;
+	text-align:left;
+    background: #ebebeb none repeat scroll 0 0;
+    border: 1px solid #d9d9d9;
+    display: block;
+    float: right;
+    width: 511px;
+}
